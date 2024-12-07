@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Premium Wireless Headphones",
+      "description": "Immersive sound experience with noise cancellation and long-lasting battery life.",
+      "price": 2999,
+      "image": "https://smartixtech.com/cdn/shop/files/smartix-immerse-pro-premium-anc-wireless-headphone-701056_1800x.jpg?v=1731664412"
+    },
+    {
+      "id": 2,
+      "name": "Smart Fitness Tracker",
+      "description": "Advanced health monitoring with GPS tracking and extended battery life.",
+      "price": 3999,
+      "image": "https://cdn.screenguards.co.in/media/catalog/product/cache/11/image/9df78eab33525d08d6e5fb8d27136e95/l/8/l8star-b1-new-smart-watch-men-women-heart-rate-monitor-blood-pressure-oxygen-fitness-tracker-smartwatch.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Compact Bluetooth Speaker",
+      "description": "Portable sound powerhouse with waterproof design and 12-hour playtime.",
+      "price": 5999,
+      "image": "https://x.imastudent.com/content/0037550_jbl-charge-5-portable-bluetooth-speaker_500.png"
+    }
+  ]
